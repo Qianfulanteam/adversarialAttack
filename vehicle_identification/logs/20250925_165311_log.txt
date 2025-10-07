@@ -1,0 +1,4 @@
+[2025-09-25 16:53:11 Adversarial_attack_defense] INFO: Loading resnet50_normal...
+[2025-09-25 16:53:12 Adversarial_attack_defense] INFO: Current attack strategy: badnet
+[2025-09-25 17:19:08 Adversarial_attack_defense] INFO: Clean accuracy of resnet50_normal is 61.50%
+[2025-09-25 17:19:08 Adversarial_attack_defense] INFO: Targeted Attack Success Rate: 21.00%

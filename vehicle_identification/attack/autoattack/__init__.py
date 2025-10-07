@@ -1,0 +1,1 @@
+from vehicle_identification.attack.autoattack.autoattack import AutoAttack

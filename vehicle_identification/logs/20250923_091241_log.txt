@@ -1,0 +1,7 @@
+[2025-09-23 09:12:41 Adversarial_attack_defense] INFO: Loading convs_normal...
+[2025-09-23 09:12:42 Adversarial_attack_defense] INFO: Start non-target attacking
+[2025-09-23 09:12:42 Adversarial_attack_defense] INFO: Current attack strategy: bim
+[2025-09-23 09:13:06 Adversarial_attack_defense] INFO: Clean accuracy of convs_normal is 20.5%
+[2025-09-23 09:13:06 Adversarial_attack_defense] INFO: Adversarial accuracy of convs_normal is 20.0%
+[2025-09-23 09:13:06 Adversarial_attack_defense] INFO: Non Targeted Attack Success Rate: 6.25%
+[2025-09-23 09:13:06 Adversarial_attack_defense] INFO: Image Distortion Rate: 9.57%

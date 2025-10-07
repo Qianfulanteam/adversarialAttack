@@ -1,0 +1,7 @@
+[2025-09-22 16:47:52 Adversarial_attack_defense] INFO: Loading resnet50_normal...
+[2025-09-22 16:47:53 Adversarial_attack_defense] INFO: Start non-target attacking
+[2025-09-22 16:47:53 Adversarial_attack_defense] INFO: Current attack strategy: bim
+[2025-09-22 16:48:10 Adversarial_attack_defense] INFO: Clean accuracy of resnet50_normal is 81.5%
+[2025-09-22 16:48:10 Adversarial_attack_defense] INFO: Adversarial accuracy of resnet50_normal is 1.0%
+[2025-09-22 16:48:10 Adversarial_attack_defense] INFO: Non Targeted Attack Success Rate: 98.82%
+[2025-09-22 16:48:10 Adversarial_attack_defense] INFO: Image Distortion Rate: 10.27%

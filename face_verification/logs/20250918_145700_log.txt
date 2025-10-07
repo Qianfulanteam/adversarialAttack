@@ -1,0 +1,5 @@
+[2025-09-18 14:57:00 Adversarial_attack_defense] INFO: Loading InceptionResnetV1...
+[2025-09-18 14:57:01 Adversarial_attack_defense] INFO: Start target attacking
+[2025-09-18 14:57:01 Adversarial_attack_defense] INFO: Current attack strategy: bim
+[2025-09-18 14:57:15 Adversarial_attack_defense] INFO: Impersonation Attack Success Rate: 96.46%
+[2025-09-18 14:57:15 Adversarial_attack_defense] INFO: Image Distortion Rate: 10.32%

@@ -1,0 +1,7 @@
+[2025-09-23 17:06:41 Adversarial_attack_defense] INFO: Loading xcitl_normal...
+[2025-09-23 17:06:46 Adversarial_attack_defense] INFO: Start non-target attacking
+[2025-09-23 17:06:46 Adversarial_attack_defense] INFO: Current attack strategy: badnet
+[2025-09-23 17:06:54 Adversarial_attack_defense] INFO: Clean accuracy of xcitl_normal is 83.0%
+[2025-09-23 17:06:54 Adversarial_attack_defense] INFO: Adversarial accuracy of xcitl_normal is 8.5%
+[2025-09-23 17:06:54 Adversarial_attack_defense] INFO: Non Targeted Attack Success Rate: 90.07%
+[2025-09-23 17:06:54 Adversarial_attack_defense] INFO: Image Distortion Rate: 10.88%

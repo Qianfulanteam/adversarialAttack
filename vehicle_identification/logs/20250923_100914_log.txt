@@ -1,0 +1,7 @@
+[2025-09-23 10:09:14 Adversarial_attack_defense] INFO: Loading vgg13_normal...
+[2025-09-23 10:09:18 Adversarial_attack_defense] INFO: Start non-target attacking
+[2025-09-23 10:09:18 Adversarial_attack_defense] INFO: Current attack strategy: fgsm
+[2025-09-23 10:09:21 Adversarial_attack_defense] INFO: Clean accuracy of vgg13_normal is 82.0%
+[2025-09-23 10:09:21 Adversarial_attack_defense] INFO: Adversarial accuracy of vgg13_normal is 41.5%
+[2025-09-23 10:09:21 Adversarial_attack_defense] INFO: Non Targeted Attack Success Rate: 50.17%
+[2025-09-23 10:09:21 Adversarial_attack_defense] INFO: Image Distortion Rate: 10.60%

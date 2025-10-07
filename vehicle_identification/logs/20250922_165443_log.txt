@@ -1,0 +1,7 @@
+[2025-09-22 16:54:43 Adversarial_attack_defense] INFO: Loading resnet50_moco...
+[2025-09-22 16:54:44 Adversarial_attack_defense] INFO: Start non-target attacking
+[2025-09-22 16:54:44 Adversarial_attack_defense] INFO: Current attack strategy: bim
+[2025-09-22 16:55:01 Adversarial_attack_defense] INFO: Clean accuracy of resnet50_moco is 92.5%
+[2025-09-22 16:55:01 Adversarial_attack_defense] INFO: Adversarial accuracy of resnet50_moco is 0.0%
+[2025-09-22 16:55:01 Adversarial_attack_defense] INFO: Non Targeted Attack Success Rate: 100.00%
+[2025-09-22 16:55:01 Adversarial_attack_defense] INFO: Image Distortion Rate: 8.89%

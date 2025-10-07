@@ -1,0 +1,7 @@
+[2025-09-23 10:08:38 Adversarial_attack_defense] INFO: Loading vgg13_normal...
+[2025-09-23 10:08:41 Adversarial_attack_defense] INFO: Start non-target attacking
+[2025-09-23 10:08:41 Adversarial_attack_defense] INFO: Current attack strategy: bim
+[2025-09-23 10:08:53 Adversarial_attack_defense] INFO: Clean accuracy of vgg13_normal is 82.0%
+[2025-09-23 10:08:53 Adversarial_attack_defense] INFO: Adversarial accuracy of vgg13_normal is 34.5%
+[2025-09-23 10:08:53 Adversarial_attack_defense] INFO: Non Targeted Attack Success Rate: 58.61%
+[2025-09-23 10:08:53 Adversarial_attack_defense] INFO: Image Distortion Rate: 10.05%

@@ -1,0 +1,5 @@
+[2025-09-18 16:40:07 Adversarial_attack_defense] INFO: Loading InceptionResnetV1...
+[2025-09-18 16:40:08 Adversarial_attack_defense] INFO: Start non-target attacking
+[2025-09-18 16:40:08 Adversarial_attack_defense] INFO: Current attack strategy: tim
+[2025-09-18 16:40:21 Adversarial_attack_defense] INFO: Avoidance Attack Success Rate: 31.84%
+[2025-09-18 16:40:21 Adversarial_attack_defense] INFO: Image Distortion Rate: 11.05%

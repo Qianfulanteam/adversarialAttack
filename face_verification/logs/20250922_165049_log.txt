@@ -1,0 +1,17 @@
+[2025-09-22 16:50:49 Adversarial_attack_defense] INFO: Loading resnet50_moco...
+[2025-09-22 16:51:11 Adversarial_attack_defense] INFO: Epoch 1/50 - Train Loss: 2.1297, Train Acc: 41.21%, Val Loss: 1.6094, Val Acc: 77.50%
+[2025-09-22 16:51:11 Adversarial_attack_defense] INFO: New best model saved with val acc: 77.50%
+[2025-09-22 16:51:28 Adversarial_attack_defense] INFO: Epoch 2/50 - Train Loss: 1.1511, Train Acc: 81.57%, Val Loss: 0.5069, Val Acc: 81.50%
+[2025-09-22 16:51:29 Adversarial_attack_defense] INFO: New best model saved with val acc: 81.50%
+[2025-09-22 16:51:45 Adversarial_attack_defense] INFO: Epoch 3/50 - Train Loss: 0.4165, Train Acc: 87.00%, Val Loss: 0.3177, Val Acc: 87.00%
+[2025-09-22 16:51:45 Adversarial_attack_defense] INFO: New best model saved with val acc: 87.00%
+[2025-09-22 16:52:01 Adversarial_attack_defense] INFO: Epoch 4/50 - Train Loss: 0.2067, Train Acc: 93.43%, Val Loss: 0.2634, Val Acc: 91.00%
+[2025-09-22 16:52:02 Adversarial_attack_defense] INFO: New best model saved with val acc: 91.00%
+[2025-09-22 16:52:18 Adversarial_attack_defense] INFO: Epoch 5/50 - Train Loss: 0.1071, Train Acc: 97.14%, Val Loss: 0.2278, Val Acc: 91.50%
+[2025-09-22 16:52:18 Adversarial_attack_defense] INFO: New best model saved with val acc: 91.50%
+[2025-09-22 16:52:33 Adversarial_attack_defense] INFO: Epoch 6/50 - Train Loss: 0.0641, Train Acc: 98.29%, Val Loss: 0.2038, Val Acc: 92.00%
+[2025-09-22 16:52:33 Adversarial_attack_defense] INFO: New best model saved with val acc: 92.00%
+[2025-09-22 16:52:49 Adversarial_attack_defense] INFO: Epoch 7/50 - Train Loss: 0.0328, Train Acc: 99.57%, Val Loss: 0.2071, Val Acc: 92.50%
+[2025-09-22 16:52:49 Adversarial_attack_defense] INFO: New best model saved with val acc: 92.50%
+[2025-09-22 16:53:06 Adversarial_attack_defense] INFO: Epoch 8/50 - Train Loss: 0.0242, Train Acc: 99.64%, Val Loss: 0.2106, Val Acc: 91.00%
+[2025-09-22 16:53:22 Adversarial_attack_defense] INFO: Epoch 9/50 - Train Loss: 0.0238, Train Acc: 99.50%, Val Loss: 0.2084, Val Acc: 91.50%

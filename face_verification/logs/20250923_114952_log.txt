@@ -1,0 +1,55 @@
+[2025-09-23 11:49:52 Adversarial_attack_defense] INFO: Loading convs_normal...
+[2025-09-23 11:50:08 Adversarial_attack_defense] INFO: Epoch 1/50 - Train Loss: 2.4164, Train Acc: 16.93%, Val Loss: 2.1708, Val Acc: 21.00%
+[2025-09-23 11:50:08 Adversarial_attack_defense] INFO: New best model saved with val acc: 21.00%
+[2025-09-23 11:50:25 Adversarial_attack_defense] INFO: Epoch 2/50 - Train Loss: 2.3277, Train Acc: 20.36%, Val Loss: 2.2003, Val Acc: 21.50%
+[2025-09-23 11:50:25 Adversarial_attack_defense] INFO: New best model saved with val acc: 21.50%
+[2025-09-23 11:50:40 Adversarial_attack_defense] INFO: Epoch 3/50 - Train Loss: 2.2779, Train Acc: 20.93%, Val Loss: 2.1996, Val Acc: 25.00%
+[2025-09-23 11:50:40 Adversarial_attack_defense] INFO: New best model saved with val acc: 25.00%
+[2025-09-23 11:50:55 Adversarial_attack_defense] INFO: Epoch 4/50 - Train Loss: 2.2648, Train Acc: 19.43%, Val Loss: 2.2728, Val Acc: 21.00%
+[2025-09-23 11:51:08 Adversarial_attack_defense] INFO: Epoch 5/50 - Train Loss: 2.2612, Train Acc: 20.21%, Val Loss: 2.1536, Val Acc: 28.50%
+[2025-09-23 11:51:09 Adversarial_attack_defense] INFO: New best model saved with val acc: 28.50%
+[2025-09-23 11:51:23 Adversarial_attack_defense] INFO: Epoch 6/50 - Train Loss: 2.2045, Train Acc: 21.86%, Val Loss: 2.1879, Val Acc: 23.50%
+[2025-09-23 11:51:37 Adversarial_attack_defense] INFO: Epoch 7/50 - Train Loss: 2.2301, Train Acc: 21.86%, Val Loss: 2.3450, Val Acc: 20.50%
+[2025-09-23 11:51:51 Adversarial_attack_defense] INFO: Epoch 8/50 - Train Loss: 2.2025, Train Acc: 24.07%, Val Loss: 2.4217, Val Acc: 24.00%
+[2025-09-23 11:52:05 Adversarial_attack_defense] INFO: Epoch 9/50 - Train Loss: 2.2023, Train Acc: 22.57%, Val Loss: 2.3009, Val Acc: 25.50%
+[2025-09-23 11:52:19 Adversarial_attack_defense] INFO: Epoch 10/50 - Train Loss: 2.1722, Train Acc: 22.29%, Val Loss: 2.0755, Val Acc: 28.50%
+[2025-09-23 11:52:33 Adversarial_attack_defense] INFO: Epoch 11/50 - Train Loss: 2.1485, Train Acc: 25.43%, Val Loss: 2.1967, Val Acc: 23.50%
+[2025-09-23 11:52:48 Adversarial_attack_defense] INFO: Epoch 12/50 - Train Loss: 2.1817, Train Acc: 22.57%, Val Loss: 2.1173, Val Acc: 25.00%
+[2025-09-23 11:53:01 Adversarial_attack_defense] INFO: Epoch 13/50 - Train Loss: 2.1318, Train Acc: 25.43%, Val Loss: 2.1139, Val Acc: 26.00%
+[2025-09-23 11:53:16 Adversarial_attack_defense] INFO: Epoch 14/50 - Train Loss: 2.1540, Train Acc: 24.79%, Val Loss: 2.1713, Val Acc: 25.50%
+[2025-09-23 11:53:31 Adversarial_attack_defense] INFO: Epoch 15/50 - Train Loss: 2.1375, Train Acc: 24.36%, Val Loss: 2.0648, Val Acc: 31.00%
+[2025-09-23 11:53:31 Adversarial_attack_defense] INFO: New best model saved with val acc: 31.00%
+[2025-09-23 11:53:46 Adversarial_attack_defense] INFO: Epoch 16/50 - Train Loss: 2.1116, Train Acc: 25.79%, Val Loss: 2.0376, Val Acc: 32.50%
+[2025-09-23 11:53:46 Adversarial_attack_defense] INFO: New best model saved with val acc: 32.50%
+[2025-09-23 11:54:00 Adversarial_attack_defense] INFO: Epoch 17/50 - Train Loss: 2.1015, Train Acc: 25.93%, Val Loss: 2.0508, Val Acc: 29.50%
+[2025-09-23 11:54:13 Adversarial_attack_defense] INFO: Epoch 18/50 - Train Loss: 2.0935, Train Acc: 25.86%, Val Loss: 2.1455, Val Acc: 26.00%
+[2025-09-23 11:54:26 Adversarial_attack_defense] INFO: Epoch 19/50 - Train Loss: 2.0707, Train Acc: 28.00%, Val Loss: 2.0438, Val Acc: 28.50%
+[2025-09-23 11:54:41 Adversarial_attack_defense] INFO: Epoch 20/50 - Train Loss: 2.0646, Train Acc: 27.64%, Val Loss: 2.0637, Val Acc: 28.00%
+[2025-09-23 11:54:54 Adversarial_attack_defense] INFO: Epoch 21/50 - Train Loss: 2.0586, Train Acc: 27.29%, Val Loss: 2.0461, Val Acc: 29.50%
+[2025-09-23 11:55:08 Adversarial_attack_defense] INFO: Epoch 22/50 - Train Loss: 2.0695, Train Acc: 26.86%, Val Loss: 2.0277, Val Acc: 30.00%
+[2025-09-23 11:55:22 Adversarial_attack_defense] INFO: Epoch 23/50 - Train Loss: 2.0336, Train Acc: 28.29%, Val Loss: 2.1011, Val Acc: 24.00%
+[2025-09-23 11:55:37 Adversarial_attack_defense] INFO: Epoch 24/50 - Train Loss: 2.0497, Train Acc: 27.50%, Val Loss: 2.0185, Val Acc: 27.50%
+[2025-09-23 11:55:50 Adversarial_attack_defense] INFO: Epoch 25/50 - Train Loss: 2.0349, Train Acc: 27.57%, Val Loss: 2.0214, Val Acc: 31.00%
+[2025-09-23 11:56:03 Adversarial_attack_defense] INFO: Epoch 26/50 - Train Loss: 2.0152, Train Acc: 27.07%, Val Loss: 2.0741, Val Acc: 30.50%
+[2025-09-23 11:56:19 Adversarial_attack_defense] INFO: Epoch 27/50 - Train Loss: 1.9988, Train Acc: 29.21%, Val Loss: 2.0772, Val Acc: 27.00%
+[2025-09-23 11:56:35 Adversarial_attack_defense] INFO: Epoch 28/50 - Train Loss: 1.9969, Train Acc: 29.57%, Val Loss: 2.0238, Val Acc: 33.00%
+[2025-09-23 11:56:35 Adversarial_attack_defense] INFO: New best model saved with val acc: 33.00%
+[2025-09-23 11:56:50 Adversarial_attack_defense] INFO: Epoch 29/50 - Train Loss: 1.9966, Train Acc: 29.29%, Val Loss: 1.9907, Val Acc: 30.50%
+[2025-09-23 11:57:07 Adversarial_attack_defense] INFO: Epoch 30/50 - Train Loss: 1.9904, Train Acc: 29.21%, Val Loss: 1.9392, Val Acc: 33.00%
+[2025-09-23 11:57:21 Adversarial_attack_defense] INFO: Epoch 31/50 - Train Loss: 1.9656, Train Acc: 30.64%, Val Loss: 1.9392, Val Acc: 30.50%
+[2025-09-23 11:57:36 Adversarial_attack_defense] INFO: Epoch 32/50 - Train Loss: 1.9667, Train Acc: 30.71%, Val Loss: 1.9567, Val Acc: 31.00%
+[2025-09-23 11:57:52 Adversarial_attack_defense] INFO: Epoch 33/50 - Train Loss: 1.9608, Train Acc: 29.93%, Val Loss: 1.9480, Val Acc: 34.00%
+[2025-09-23 11:57:52 Adversarial_attack_defense] INFO: New best model saved with val acc: 34.00%
+[2025-09-23 11:58:07 Adversarial_attack_defense] INFO: Epoch 34/50 - Train Loss: 1.9307, Train Acc: 31.64%, Val Loss: 1.9576, Val Acc: 31.50%
+[2025-09-23 11:58:22 Adversarial_attack_defense] INFO: Epoch 35/50 - Train Loss: 1.9239, Train Acc: 32.00%, Val Loss: 1.9520, Val Acc: 33.00%
+[2025-09-23 11:58:36 Adversarial_attack_defense] INFO: Epoch 36/50 - Train Loss: 1.8894, Train Acc: 33.07%, Val Loss: 1.9844, Val Acc: 31.50%
+[2025-09-23 11:58:50 Adversarial_attack_defense] INFO: Epoch 37/50 - Train Loss: 1.9249, Train Acc: 32.00%, Val Loss: 1.9459, Val Acc: 29.00%
+[2025-09-23 11:59:04 Adversarial_attack_defense] INFO: Epoch 38/50 - Train Loss: 1.9084, Train Acc: 32.07%, Val Loss: 1.9291, Val Acc: 34.00%
+[2025-09-23 11:59:19 Adversarial_attack_defense] INFO: Epoch 39/50 - Train Loss: 1.8967, Train Acc: 32.93%, Val Loss: 1.9288, Val Acc: 29.00%
+[2025-09-23 11:59:34 Adversarial_attack_defense] INFO: Epoch 40/50 - Train Loss: 1.8748, Train Acc: 33.14%, Val Loss: 1.9140, Val Acc: 34.50%
+[2025-09-23 11:59:35 Adversarial_attack_defense] INFO: New best model saved with val acc: 34.50%
+[2025-09-23 11:59:50 Adversarial_attack_defense] INFO: Epoch 41/50 - Train Loss: 1.8711, Train Acc: 35.86%, Val Loss: 1.9248, Val Acc: 32.50%
+[2025-09-23 12:00:04 Adversarial_attack_defense] INFO: Epoch 42/50 - Train Loss: 1.8669, Train Acc: 33.93%, Val Loss: 1.9337, Val Acc: 32.00%
+[2025-09-23 12:00:18 Adversarial_attack_defense] INFO: Epoch 43/50 - Train Loss: 1.8647, Train Acc: 34.29%, Val Loss: 1.9115, Val Acc: 32.50%
+[2025-09-23 12:00:32 Adversarial_attack_defense] INFO: Epoch 44/50 - Train Loss: 1.8646, Train Acc: 34.50%, Val Loss: 1.9044, Val Acc: 33.50%
+[2025-09-23 12:00:47 Adversarial_attack_defense] INFO: Epoch 45/50 - Train Loss: 1.8593, Train Acc: 34.93%, Val Loss: 1.9146, Val Acc: 31.50%

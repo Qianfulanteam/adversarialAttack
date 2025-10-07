@@ -1,0 +1,7 @@
+[2025-09-23 09:11:30 Adversarial_attack_defense] INFO: Loading densenet201_normal...
+[2025-09-23 09:11:31 Adversarial_attack_defense] INFO: Start non-target attacking
+[2025-09-23 09:11:31 Adversarial_attack_defense] INFO: Current attack strategy: bim
+[2025-09-23 09:12:21 Adversarial_attack_defense] INFO: Clean accuracy of densenet201_normal is 88.0%
+[2025-09-23 09:12:21 Adversarial_attack_defense] INFO: Adversarial accuracy of densenet201_normal is 21.5%
+[2025-09-23 09:12:21 Adversarial_attack_defense] INFO: Non Targeted Attack Success Rate: 76.15%
+[2025-09-23 09:12:21 Adversarial_attack_defense] INFO: Image Distortion Rate: 10.35%

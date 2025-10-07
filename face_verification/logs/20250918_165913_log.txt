@@ -1,0 +1,7 @@
+[2025-09-18 16:59:13 Adversarial_attack_defense] INFO: Loading resnet50_normal...
+[2025-09-18 16:59:14 Adversarial_attack_defense] INFO: Start target attacking
+[2025-09-18 16:59:14 Adversarial_attack_defense] INFO: Current attack strategy: fgsm
+[2025-09-18 16:59:16 Adversarial_attack_defense] INFO: Clean accuracy of resnet50_normal is 90.0%
+[2025-09-18 16:59:16 Adversarial_attack_defense] INFO: Adversarial accuracy of resnet50_normal is 52.0%
+[2025-09-18 16:59:16 Adversarial_attack_defense] INFO: Impersonation Attack Success Rate: 0.00%
+[2025-09-18 16:59:16 Adversarial_attack_defense] INFO: Image Distortion Rate: 11.00%
